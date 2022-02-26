@@ -38,5 +38,5 @@ See [LICENSE](LICENSE).
 
 ```txt
 margin.vim
-Copyright (c) 2022 Yasuhiro Яша Asaka <a.k.a Yasha>
+Copyright (c) 2022 Yasuhiro Яша Asaka <yasuhiro.asaka@grauwoelfchen.net>
 ```
